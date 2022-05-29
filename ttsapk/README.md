@@ -19,7 +19,7 @@
 구글 TTS 과거 버전에서 이름을 tGoogleTts 로 변경(앞에 t 만 추가) 하여 apk 를 다시 만들었습니다. 
 
 
-[수정한 부분 확인](https://github.com/khjde1207/openTextView/blob/main/datas/ttsapk/backup.txt)
+[수정한 부분 확인](https://github.com/khjde1207/opentextviewdatas/blob/main/ttsapk/backup.txt)
 
 
 ## 설치 방법 
@@ -29,38 +29,38 @@
 
 ---
 ## 다운로드 : 
-[클릭 하여 apk 다운로드](https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/tgoogle-tts.apk)
+[클릭 하여 apk 다운로드](https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/tgoogle-tts.apk)
 
 ---
 1. 위 바로 가기를 눌러 apk 파일 을 다운로드 합니다. 
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/1.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/1.png" />
 </p>
 
 2. 확인 을 누른뒤 잠시 기다리면 열기 버튼으로 변경 됩니다. 열기 버튼을 우르면 아래와 같은 메세지가 출력 됩니다. 
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/2.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/2.png" />
 </p>
 
 3. 설정 을 누르면 창이 변경 되면서 아래 그림이 보이실겁니다. (만약 위 메세지가 출력 되지 않았다면 그냥 무시 하시고 5번 단계로 이동 하세요. )
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/3.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/3.png" />
 </p>
 
 4. 이 출처 허용 을 눌러 주세요. 
 
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/4.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/4.png" />
 </p>
 
 5. 설치를 눌러주세요. 
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/5.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/5.png" />
 </p>
 
 6. 잠시 기다리시면 그림과 같이 팝업이 뜨게 되는데. [무시하고 설치]를 눌러 주세요.
@@ -69,15 +69,15 @@
 
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/6.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/6.png" />
 </p>
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/7.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/7.png" />
 </p>
 
 <p align='center'>
-    <img src="https://github.com/khjde1207/openTextView/raw/main/datas/ttsapk/img/8.png" />
+    <img src="https://github.com/khjde1207/opentextviewdatas/raw/main/ttsapk/img/8.png" />
 </p>
 
 7. 설정 -> 접근성 -> 스크린 리더 -> 설정 -> tGoogle TTS 엔진 으로 변경 해 주세요.
