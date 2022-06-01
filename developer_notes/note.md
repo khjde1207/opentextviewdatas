@@ -8,9 +8,11 @@
 
 3. 개발자 노트를 서버에서 다운받도록 수정 하였습니다. 
 
-
-
+4. 테스트 url 추가 
 [오픈텍뷰 플레이 스토어로 이동](https://play.google.com/store/apps/details?id=com.khjde.opentextview)
+
+
+
 
 
 
