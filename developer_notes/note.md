@@ -8,6 +8,7 @@
 
 3. 개발자 노트를 서버에서 다운받도록 수정 하였습니다. 
 
+[오픈텍뷰 플레이 스토어로 이동](https://play.google.com/store/apps/details?id=com.khjde.opentextview)
 
 ---
 2.4.9 (2022 05 27)
