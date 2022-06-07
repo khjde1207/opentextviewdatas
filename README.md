@@ -44,3 +44,6 @@ tts 설정 에서 여러줄 을 읽도록 설정할 수 있습니다.
 
 [요구 / 버그 제보 링크](https://github.com/khjde1207/opentextviewdatas/issues)
 
+
+
+[웹버전](https://khjde1207.github.io/opentextviewdatas/web/index.html)
