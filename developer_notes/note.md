@@ -2,7 +2,9 @@
 
 최근 웹에서 작동 하도록 소스수정 중입니다.
 
-[웹버전 주소: https://khjde1207.github.io/](https://khjde1207.github.io/)
+[웹버전](https://khjde1207.github.io/)
+
+주소 : https://khjde1207.github.io/
 
 현재 자동 백업 / tts 음성 선택 부분만 남았습니다. 
 
