@@ -1,4 +1,15 @@
 
+
+---
+
+5.7.3 (2022 09 20)
+1. 갤럭시 폴드1 에서 화면을 펼칠 경우 두페이지 옵션 보이도록 수정. 
+
+---
+
+5.7.3 (2022 09 20)
+Fixed to show two page options when unfolding the screen on Galaxy Fold 1.
+
 ---
 5.7.2 (2022 09 20)
 1. 블랙테마 추가 
