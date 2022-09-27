@@ -1,27 +1,26 @@
 
+---
+
+5.7.8 (2022 09 27)
+
+1. 한국어 폰트 106 개 추가.
+2. 구글 폰트 799 개 추가. 
+  - 한국어 29, 라틴어 743, 신할라 10, 에티오피아 3 등등. 여러 언어를 지원 합니다.  
+3. 어플 용량을 줄이기 위해 기존 내장 폰트를 지웠습니다. 필요시 새로 추가한 폰트 다운로더 를 이용 하여 다운받을 수 있습니다. 
+  - 위 기능 으로 인해 일부 사용자의 폰트는 기본폰트로 돌아가게 됩니다. 대부분 폰트는 호환 되도록 로직 처리를 하였지만.Roboto,GyeonggiBatang 폰트 사용자는 기본 폰트로 전환 됩니다. 
+  - 직접 추가 하는 방식도 도입 하고자 했지만. 타기기에서 백업/복구, 웹지원 등 여러 상황을 대응 하려고 하니 설계가 복잡해 져서 우선 보류 하였습니다. 
+4. 읽기 위치 초기화 되는 버그를 수정 하였습니다. 
+5. 재생버튼이 재생중이 아닐때도 표시 되던 버그 를 수정 하였습니다.  
+6. 엔진 초기화 이후 0.9 초 딜레이를 추가 하였습니다. 
 
 ---
 
-5.7.4 (2022 09 21)
+5.7.8 (2022 09 27)
 
-1. 블랙테마 사용시 배경색도 어둡게 변경 
-2. 하이라이트 색상설정 기능을 TTS 설정에서 -> 설정-색상 설정으로 위치를 이동 하였습니다. 
-3. 화면 방향을 시스템 기본,세로,가로 설정 가능 하도록 기능 추가. 
-4. 다른 앱에서 오픈텍뷰를 열수 있도록 URL Scheme 을 추가 하였습니다. 
-  - URL 은 설정 -> 정보 및 도움말 -> 다른 앱과의 연동을 위한 URL Scheme 을 참고 바랍니다. 
-  - 해당 url 클릭시 자동으로 클립보드에 복사 됩니다. 
-5. TTS 설정 : 전체화면시 플레이 버튼을 숨기거나 보이도록 할 수 있습니다. 
-6. TTS 설정 : 플레이 버튼의 투명도를 조절 할수 있습니다. 
-
----
-
-5.7.4 (2022 09 21)
-
-1. Change the background color to dark when using a black theme
-2. The highlight color setting function has been moved from TTS Settings -> Settings-Color Settings.
-3. Added a function to set the screen orientation to the system default, portrait, and landscape.
-4. URL Scheme has been added so that other apps can open OpenTextViewer.
-   - For URL, please refer to Settings -> Information & Help -> URL Scheme for Linking with Other Apps.
-   - When you click the url, it is automatically copied to the clipboard.
-5. TTS Settings: You can hide or show the play button in full screen.
-6. TTS Settings: You can adjust the transparency of the play button.
+1. Added 106 Korean fonts.
+2. Added 799 Google Fonts.
+   - Korean 29, Latin 743, Sinhala 10, Ethiopia 3 and so on. Supports multiple languages.
+3. To reduce the size of the application, the existing built-in fonts have been deleted. If necessary, you can download it using the newly added font downloader.
+4. Fixed a bug where read position was initialized.
+5. Fixed a bug where the play button was displayed even when not playing.
+6. Added 0.9 second delay after engine initialization.
