@@ -4,9 +4,9 @@
 
 ---
 
-[TTS TextViewer 다운로드](https://khjde1207.github.io/datas/apk/app-release.apk)
+[TTS TextViewer apk 다운로드](https://khjde1207.github.io/datas/apk/app-release.apk)
 
-* 플레이 스토어를 이용하여 설치 가 안된다는 제보가 종종 있었습니다.   
+* 플레이스토어 를 이용하여 설치 가 안된다는 제보가 종종 있었습니다.   
 * 만약 일부 이북리더기 에서 설치가 안될경이 위 링크에서 apk 를 다운받아 설치 해보시기 바랍니다.
 
 [TTS TextViewer 플레이 스토어로 이동](https://play.google.com/store/apps/details?id=com.khjde.opentextview)
