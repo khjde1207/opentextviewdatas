@@ -11,6 +11,9 @@ https://r1.community.samsung.com/t5/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s/tts-%EB%81%8A%
 삼성측에서 답변한 내용으로 시도 해보시는 것도 좋은 방법 일듯 합니다. 
 
 ---
+기타 TTS 사용 방법에 대한 카페글이 있어서 공유 해 드립니다. 
+
+https://cafe.naver.com/anycallusershow/4970774
 
 
 ## 개발자 어플 설명 
