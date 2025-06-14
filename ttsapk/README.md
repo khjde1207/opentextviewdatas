@@ -21,6 +21,8 @@ https://cafe.naver.com/anycallusershow/4970774
 
 ---
 
+TTReader 웹버전 링크 : https://khjde1207.github.io/#/
+
 [TTReader 웹버전 소스코드 링크](https://github.com/khjde1207/khjde1207.github.io)
 
-TTReader 웹버전 링크 : https://khjde1207.github.io/#/
+
