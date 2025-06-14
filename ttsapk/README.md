@@ -20,7 +20,7 @@ https://cafe.naver.com/anycallusershow/4970774
 
 ---
 
-[TTS TextViewer apk 다운로드](https://github.com/khjde1207/khjde1207.github.io/releases/download/apk/app-release.apk)
+[TTS TextViewer apk 다운로드](https://github.com/khjde1207/khjde1207.github.io/releases)
 
 * 플레이스토어 를 이용하여 설치 가 안된다는 제보가 종종 있었습니다.   
 * 만약 일부 이북리더기 에서 설치가 안될경이 위 링크에서 apk 를 다운받아 설치 해보시기 바랍니다.
