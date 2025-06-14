@@ -5,6 +5,10 @@
 
 TTReader 웹버전 링크 : https://khjde1207.github.io/#/
 
+갑자기 웹버전 작동이 안될때 여기로 문의 남겨 주세요. 
+
+https://github.com/khjde1207/khjde1207.github.io/issues
+
 ---
 
 기타 TTS 엔진 사용 방법에 대한 카페글이 있어서 공유 해 드립니다. 
